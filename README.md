@@ -5,6 +5,7 @@ uma loja de vestuários.  O programa deve ser todo estruturado com funções e  
 fonte deve estar corretamente identado e comentado. Os produtos vendidos são identificados por
 códigos, conforme tabela abaixo.
 Código Descrição Estoque Valor
+
 1 Calça 20 R$ 112,00
 
 2 Camisa 18 R$ 95,00
