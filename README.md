@@ -6,14 +6,23 @@ fonte deve estar corretamente identado e comentado. Os produtos vendidos são id
 códigos, conforme tabela abaixo.
 Código Descrição Estoque Valor
 1 Calça 20 R$ 112,00
+
 2 Camisa 18 R$ 95,00
+
 3 Bermuda 23 R$ 49,90
+
 4 Saia 12 R$ 169,00
+
 5 Blusa 9 R$ 120,00
+
 6 Moletom 4 R$ 135,00
+
 7 Meia 17 R$ 12,99
+
 8 Tênis 8 R$ 183,00
+
 9 Bota 3 R$ 219,90
+
 Menu:
 O programa deverá conter um menu com as seguintes funcionalidades:
 1. Registrar venda:  Inicia   uma   venda,   solicitando   o   nome   do   cliente   e   depois,   em   uma
